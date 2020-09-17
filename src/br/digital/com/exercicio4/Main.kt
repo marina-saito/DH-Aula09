@@ -5,7 +5,6 @@ fun main() {
     val peca2 = Peca("Nike", "YY")
     val peca3 = Peca("Puma", "ZZ")
     val peca4 = Peca("Under Armour", "WW")
-
     val guardaVol = GuardaVolumes()
 
     println("Código das peças 1 e 2: ${guardaVol.guardarPecas(listOf(peca1, peca2))}")
