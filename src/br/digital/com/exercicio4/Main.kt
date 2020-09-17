@@ -1,7 +1,6 @@
 package br.digital.com.exercicio4
 
 fun main() {
-
     val peca1 = Peca("Adidas", "XX")
     val peca2 = Peca("Nike", "YY")
     val peca3 = Peca("Puma", "ZZ")
